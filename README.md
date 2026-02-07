@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Subhojit (aka Fugitive)
+# 👋 Yo, I'm intruder
 
 > *Turning caffeine into code, and code into chaos.*
 
@@ -7,7 +7,7 @@
 ## 🧙‍♂️ About Me
 
 ```python
-class FugitiveSinner:
+class intruderCommits:
     """
     Professional bug conjurer, caffeine enthusiast,
     and part-time wizard at breaking things (on purpose).
@@ -41,7 +41,7 @@ class FugitiveSinner:
     def __str__(self):
         return f"{self.name} | {self.age} | {self.superpower} | {self.mood}"
 
-me = FugitiveSinner()
+me = intruderCommits()
 print(me)
 ```
 
